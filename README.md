@@ -11,8 +11,8 @@ appear number map in rviz
 #### 2.1.2 Published Topics  
   number_map(nav_msgs/OccupancyGrid)
   
-## 2.2 number_pub  
-### 2.2.1 Published Topics  
+### 2.2 number_pub  
+#### 2.2.1 Published Topics  
   number(std_msgs/Int16)
   
   
