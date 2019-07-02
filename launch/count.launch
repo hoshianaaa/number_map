@@ -1,0 +1,7 @@
+
+<launch>
+    <node pkg ="number_map" name="number_map" type="number_map"/>
+    <node pkg ="number_map" name="number_pub" type="number_pub"/>
+    <node pkg ="rviz" type="rviz" name="rviz"/>
+</launch>
+
